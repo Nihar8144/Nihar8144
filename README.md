@@ -1,3 +1,4 @@
+![logo](https://github.com/Nihar8144/Nihar8144/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Nihar Ranjan Meher</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
